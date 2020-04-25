@@ -1,5 +1,7 @@
 {
-	"users": [{
+	"users": [
+		{
+            "id":1,
 			"first_name": "ale2",
 			"last_name": "ale2",
 			"username": "ale1256aaaa",
@@ -18,7 +20,7 @@
 			}
 		},
 		{
-			"users": {
+                "id":2,
 				"first_name": "ale",
 				"last_name": "ale",
 				"username": "ale1234aaaa",
@@ -36,6 +38,6 @@
 					"description": "''"
 				}
 			}
-		}
+		
 	]
 }
