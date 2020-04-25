@@ -1,1 +1,9 @@
-{"users":{"first_name":"ale","last_name":"ale","username":"ale1234aaaa","email":"email@test.it","address":{"street":"via boh","city":"cagliari","zip_code":"00000","country":"Italia"}}}
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
