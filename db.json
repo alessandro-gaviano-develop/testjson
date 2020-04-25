@@ -6,17 +6,17 @@
 			"last_name": "ale2",
 			"username": "ale1256aaaa",
 			"email": "email2@test.it",
-			"check_company": "0",
+			"check_company": "1",
 			"type_admin": "0",
 			"address": {
 				"street": "via boh boh",
 				"city": "cagliari",
-				"zip_code:09000": {},
+				"zip_code": "09000",
 				"country": "Italia"
 			},
 			"company": {
-				"name": "''",
-				"description": "''"
+				"name": "test",
+				"description": "lorem ipsum aaaassa'"
 			}
 		},
 		{
@@ -26,16 +26,16 @@
 				"username": "ale1234aaaa",
 				"email": "email@test.it",
 				"check_company": "0",
-				"type_admin": "0",
+				"type_admin": "1",
 				"address": {
 					"street": "via boh",
 					"city": "cagliari",
-					"zip_code:00000": {},
+					"zip_code": "09000",
 					"country": "Italia"
 				},
 				"company": {
-					"name": "''",
-					"description": "''"
+					"name": "",
+					"description": ""
 				}
 			}
 		
