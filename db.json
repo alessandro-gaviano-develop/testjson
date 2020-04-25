@@ -1,3 +1,41 @@
 {
-  "users":  []
-  }
+	"users": [{
+			"first_name": "ale2",
+			"last_name": "ale2",
+			"username": "ale1256aaaa",
+			"email": "email2@test.it",
+			"check_company": "0",
+			"type_admin": "0",
+			"address": {
+				"street": "via boh boh",
+				"city": "cagliari",
+				"zip_code:09000": {},
+				"country": "Italia"
+			},
+			"company": {
+				"name": "''",
+				"description": "''"
+			}
+		},
+		{
+			"users": {
+				"first_name": "ale",
+				"last_name": "ale",
+				"username": "ale1234aaaa",
+				"email": "email@test.it",
+				"check_company": "0",
+				"type_admin": "0",
+				"address": {
+					"street": "via boh",
+					"city": "cagliari",
+					"zip_code:00000": {},
+					"country": "Italia"
+				},
+				"company": {
+					"name": "''",
+					"description": "''"
+				}
+			}
+		}
+	]
+}
